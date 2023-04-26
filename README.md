@@ -1,4 +1,5 @@
-# ¡Bienvenido a mi proyecto de GitHub! Este proyecto utiliza la biblioteca de JavaScript React y está diseñado para manejar estados utilizando los hooks de React, como useEffect y useState.
+# ¡Bienvenido a mi proyecto de GitHub! 
+Este proyecto utiliza la biblioteca de JavaScript React y está diseñado para manejar estados utilizando los hooks de React, como useEffect y useState.
 
 React es una biblioteca popular para crear aplicaciones web modernas y dinámicas. Una de sus principales características es el uso de componentes reutilizables que hacen que el desarrollo de aplicaciones sea más eficiente y fácil de mantener. Los hooks de React, como useEffect y useState, son una forma sencilla y efectiva de manejar estados en una aplicación React.
 
